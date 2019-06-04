@@ -1,5 +1,5 @@
 {
-  "name": "warbler-server",
+  "name": "cardinal-server",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
